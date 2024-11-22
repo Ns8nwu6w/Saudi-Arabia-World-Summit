@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>رؤية السعودية ومشاريعها المستقبلية</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            line-height: 1.8;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #004080;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #ffcc00;
+        }
+        h2 {
+            color: #004080;
+            border-bottom: 2px solid #ffcc00;
+            display: inline-block;
+            margin-bottom: 10px;
+        }
+        section {
+            margin: 20px;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            border-radius: 10px;
+        }
+        ul {
+            list-style-type: square;
+            padding-left: 20px;
+        }
+        ul li {
+            margin-bottom: 10px;
+            color: #333;
+        }
+        footer {
+            background-color: #004080;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>رؤية السعودية ومشاريعها المستقبلية</h1>
+        <p>استكشاف التقدم المذهل في المملكة عبر العقود القادمة</p>
+    </header>
+
+    <section>
+        <h2>رؤية السعودية 2030</h2>
+        <ul>
+            <li>تحقيق التنوع الاقتصادي من خلال مشاريع ضخمة مثل نيوم والقدية.</li>
+            <li>الاستثمار في الطاقة المتجددة لتقليل الاعتماد على النفط.</li>
+            <li>تعزيز قطاع السياحة لزيادة الدخل القومي.</li>
+            <li>إنشاء بنية تحتية حديثة تشمل شبكات النقل الذكية.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>رؤية السعودية 2045</h2>
+        <ul>
+            <li>تصبح السعودية مركزًا عالميًا للابتكار والتكنولوجيا.</li>
+            <li>اكتفاء ذاتي في الزراعة والصناعات الغذائية.</li>
+            <li>تطوير مدن ذكية بالكامل تعتمد على الذكاء الاصطناعي.</li>
+            <li>زيادة الصادرات غير النفطية لدعم الاقتصاد الوطني.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>رؤية السعودية 2060</h2>
+        <ul>
+            <li>تحقيق الحياد الصفري في الانبعاثات الكربونية.</li>
+            <li>جيش قوي وتقنيات دفاعية متقدمة تجعل المملكة في مقدمة القوى العالمية.</li>
+            <li>اقتصاد يعتمد على الابتكار وصناعات الفضاء والطاقة المتجددة.</li>
+            <li>زيادة العلاقات التجارية الدولية لتعزيز مكانة السعودية عالميًا.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>© 2024 المملكة العربية السعودية - جميع الحقوق محفوظة.</p>
+    </footer>
+</body>
+</html>
